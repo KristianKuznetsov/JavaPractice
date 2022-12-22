@@ -10,7 +10,7 @@
 - Контрольная
    - [Найти длину возрастающей подпоследовательности (3078)](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Maximum%20length%20of%20a%20monotone%20fragment)
    - [Сапер (1444)](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Sapper)
-- Удалить в строке коментарии
+- [Удалить в строке коментарии](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Remove%20comments%20in%20text)
 - Книжная полка + Stream + JSON
 - Коллоквиум 
 - Таблица UI
