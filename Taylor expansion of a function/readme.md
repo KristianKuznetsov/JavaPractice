@@ -1,4 +1,4 @@
-#Вычислить приближённое значение суммы бесконечного ряда. 
+# Вычислить приближённое значение суммы бесконечного ряда. 
 
 ![Условие](https://github.com/KristianKuznetsov/JavaPractice/blob/main/Additional%20materials/2022-12-22_23-21-25.png)
 
