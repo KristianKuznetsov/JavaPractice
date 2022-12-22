@@ -1,7 +1,7 @@
 # JavaPractice
 - [Верхний уровень](https://github.com/KristianKuznetsov/top-levelInformationRepository/blob/main/README.md)
 - [Разложение Тейлора + Unit Tests](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Taylor%20expansion%20of%20a%20function)
-- Сумма чисел в строке
+- [Сумма чисел в строке](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Sum%20of%20numbers%20in%20a%20row)
 - Матрицы
    - Столбец с минимальным произведением
    - Max число встречающееся 2 раза
