@@ -3,3 +3,4 @@
 Вид этого числа определяется  следующим условием: e = 10-k, где k – натуральное число.  
 Значения x и k ввести с клавиатуры.  
 Покрыть все Unit тестами.
+![Условие](https://github.com/KristianKuznetsov/JavaPractice/blob/main/Additional%20materials/2022-12-22_23-21-25.png)
