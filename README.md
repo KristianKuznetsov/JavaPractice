@@ -9,7 +9,7 @@
 - [Строки](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Working%20with%20strings)
 - Контрольная
    - [Найти длину возрастающей подпоследовательности (3078)](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Maximum%20length%20of%20a%20monotone%20fragment)
-   - Сапер (1444)
+   - [Сапер (1444)](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Sapper)
 - Удалить в строке коментарии
 - Книжная полка + Stream + JSON
 - Коллоквиум 
