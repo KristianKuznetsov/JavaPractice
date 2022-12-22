@@ -5,7 +5,7 @@
 - Матрицы
    - [Столбец с минимальным произведением](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Working%20with%20matrices/Task%205)
    - [Max число встречающееся 2 раза](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Working%20with%20matrices/Task%2015)
-   - Становится ли симметричной?
+   - [Становится ли симметричной?](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Working%20with%20matrices/Task%2025)
 - Строки
 - Контрольные
    - Найти длину возрастающей подпоследовательности (3078)
