@@ -13,5 +13,5 @@
 - [Удалить в строке коментарии](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Remove%20comments%20in%20text)
 - [Книжная полка + Stream + JSON](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Bookshelf)
 - [Коллоквиум](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Colloquium) 
-- Таблица UI
+- [Таблица UI](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Table)
 - База книг
