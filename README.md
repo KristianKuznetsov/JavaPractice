@@ -14,4 +14,4 @@
 - [Книжная полка + Stream + JSON](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Bookshelf)
 - [Коллоквиум](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Colloquium) 
 - [Таблица UI](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Table)
-- База книг
+- [База книг](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Book%20database)
