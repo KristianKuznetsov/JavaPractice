@@ -7,7 +7,7 @@
    - [Max число встречающееся 2 раза](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Working%20with%20matrices/Task%2015)
    - [Становится ли симметричной?](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Working%20with%20matrices/Task%2025)
 - [Строки](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Working%20with%20strings)
-- Контрольные
+- Контрольная
    - Найти длину возрастающей подпоследовательности (3078)
    - Сапер (1444)
 - Удалить в строке коментарии
