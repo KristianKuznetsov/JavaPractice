@@ -1,4 +1,4 @@
-** [Верхний уровень](https://github.com/KristianKuznetsov/JavaPractice) **
+**[Верхний уровень](https://github.com/KristianKuznetsov/JavaPractice)**
 
 # Вычислить приближённое значение суммы бесконечного ряда. 
 
