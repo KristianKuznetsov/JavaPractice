@@ -79,6 +79,3 @@ public class Comment {
         System.out.println("Text without comments:\n" + endText);
     }
 }
-
-//-0.112EE-05
-//ghghghgh -2 +34 34 -9hg9hg i8 12L -4l ytyt 700 30_00 rtr10000r 30___00 1.68 -0.68 2.14F ooo -1.14f PI -PI uutu E
