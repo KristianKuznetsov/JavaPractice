@@ -1,6 +1,6 @@
 # JavaPractice
 - [Верхний уровень](https://github.com/KristianKuznetsov/top-levelInformationRepository/blob/main/README.md)
-- Разложение Тейлора + Unit Tests
+- [Разложение Тейлора + Unit Tests](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Taylor%20expansion%20of%20a%20function)
 - Сумма чисел в строке
 - Матрицы
    - Столбец с минимальным произведением
