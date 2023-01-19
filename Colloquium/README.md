@@ -1,6 +1,6 @@
 **[Верхний уровень](https://github.com/KristianKuznetsov/JavaPractice)**
 
-[Назад](https://github.com/KristianKuznetsov/top-levelInformationRepository/blob/main/README.md)
+[Назад](https://github.com/KristianKuznetsov/JavaSecondCourseColloquiums)
 
 # Коллоквиум (Обувной магазин)
 
