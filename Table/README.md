@@ -1,6 +1,6 @@
 **[Верхний уровень](https://github.com/KristianKuznetsov/JavaPractice)**
 
-[Назад](https://github.com/KristianKuznetsov/JavaSecondCourseColloquiums)
+[Назад к коллоквиумам](https://github.com/KristianKuznetsov/JavaSecondCourseColloquiums)
 
 # Таблица (Обувной магазин)
 
